@@ -1,3 +1,3 @@
 # gchat
 
-## simple server client go application
+## simple server-client go application
